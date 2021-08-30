@@ -1,0 +1,12 @@
+hr {
+  border: 1px dotted blue;
+}
+
+body {
+  background-color: cadetblue;
+}
+
+#name,
+#message {
+  background-color: lightyellow;
+}
